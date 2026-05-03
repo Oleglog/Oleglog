@@ -46,7 +46,7 @@ Tools       Git · Linux · Docker · Shell
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" alt="spotify-now-playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l5x7qr3bz4s5xpdhcqvlpjlp3q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" alt="spotify-now-playing" />
   </a>
 </p>
 
