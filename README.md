@@ -1,11 +1,6 @@
-```
-  ___  _            _
- / _ \| | ___  __ _| | ___   __ _
-| | | | |/ _ \/ _` | |/ _ \ / _` |
-| |_| | |  __/ (_| | | (_) | (_| |
- \___/|_|\___|\__, |_|\___/ \__, |
-              |___/         |___/
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oleglog/Oleglog/main/assets/header.svg" alt="oleglog@github terminal banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2EE66E&center=true&vCenter=true&width=620&lines=%3E+backend+developer;%3E+student+%26+enthusiast;%3E+building+with+django+%26+c%2B%2B;%3E+open+source+contributor" alt="typing" />
@@ -15,13 +10,28 @@
 
 ### Stack
 
-```
-Languages   Python · C++ · Kotlin · TypeScript · PHP · Shell
-Backend     Django · Docker
-Databases   Redis · SQLite
-Frontend    HTML5 · CSS3 · Bootstrap
-Tools       Git · Linux · Docker · Shell
-```
+<table align="center">
+  <tr>
+    <td align="right"><sub><b>Languages</b></sub></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,kotlin,ts,php,bash" height="36" alt="languages" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Backend</b></sub></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,docker" height="36" alt="backend" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Databases</b></sub></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis,sqlite" height="36" alt="databases" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="36" alt="frontend" /></a></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Tools</b></sub></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux,docker,bash" height="36" alt="tools" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -55,5 +65,3 @@ Tools       Git · Linux · Docker · Shell
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oleglog&style=flat-square&color=2ee66e&label=profile+views" alt="profile views" />
 </p>
-
-<!-- profile readme -->
